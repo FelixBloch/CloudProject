@@ -1,0 +1,8 @@
+Compute Engine:
+https://cloud.google.com/products/calculator/#id=1207aab2-73bc-4350-a027-69bec0fe37e9
+
+2nd Gen Cloud SQL:
+https://cloud.google.com/products/calculator/#id=cfb2e978-fe9b-4c3a-a8ec-58be5a717a09
+
+Cloud Storage:
+https://cloud.google.com/products/calculator/#id=d2f37f46-6a9a-4be6-8943-d2530afd22f9
